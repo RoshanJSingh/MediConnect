@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --primarybg: #7483bd ;
+}
+
+.active hr{
+    @apply block;
+}
+
+::-webkit-scrollbar{
+    @apply hidden;
+}
+
+@media (max-width:740px) {
+    .active p{
+        @apply text-white bg-primary
+    }
+    
+}
