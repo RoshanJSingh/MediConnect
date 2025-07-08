@@ -1,10 +1,10 @@
-# 🏥 MediConnect - Healthcare Management Platform
+# MediConnect - Healthcare Management Platform
 
 A comprehensive healthcare management platform built with modern web technologies, featuring patient management, doctor appointments, and administrative controls.
 
-## 🚀 Features
+## Features
 
-### 👥 For Patients (Frontend)
+### For Patients (Frontend)
 - **User Registration & Authentication** - Secure login and signup system
 - **Doctor Discovery** - Browse doctors by speciality and location
 - **Appointment Booking** - Easy scheduling with available doctors
@@ -12,21 +12,21 @@ A comprehensive healthcare management platform built with modern web technologie
 - **Appointment History** - Track past and upcoming appointments
 - **Responsive Design** - Mobile-friendly interface
 
-### 🏥 For Doctors (Admin Panel)
+### For Doctors (Admin Panel)
 - **Doctor Dashboard** - Overview of appointments and patient information
 - **Appointment Management** - Accept, reschedule, or cancel appointments
 - **Patient Records** - Access to patient profiles and medical history
 - **Schedule Management** - Set availability and working hours
 - **Profile Management** - Update professional information
 
-### 🔧 For Administrators (Admin Panel)
+### For Administrators (Admin Panel)
 - **System Dashboard** - Overview of platform statistics
 - **Doctor Management** - Approve doctor registrations and manage profiles
 - **Patient Management** - Monitor patient registrations and activities
 - **Appointment Oversight** - Monitor and manage all platform appointments
 - **Analytics** - Platform usage and performance metrics
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **Framework:** React.js with Vite
@@ -50,7 +50,7 @@ A comprehensive healthcare management platform built with modern web technologie
 - **ODM:** Mongoose
 - **Cloud Storage:** Cloudinary (for images)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 MediConnect/
@@ -63,7 +63,7 @@ MediConnect/
 └── README.md         # Project documentation
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -125,7 +125,7 @@ MediConnect/
    npm run dev
    ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -150,7 +150,7 @@ FRONTEND_URL=http://localhost:5173
 PORT=4000
 ```
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Authentication Endpoints
 - `POST /api/user/register` - Patient registration
@@ -176,16 +176,8 @@ PORT=4000
 - `PUT /api/admin/doctor/:id` - Update doctor status
 - `GET /api/admin/appointments` - Get all appointments
 
-## 🎯 Features in Development
 
-- [ ] Real-time chat between patients and doctors
-- [ ] Video consultation integration
-- [ ] Payment gateway integration
-- [ ] Mobile app development
-- [ ] Advanced analytics and reporting
-- [ ] Multi-language support
-
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -193,7 +185,7 @@ PORT=4000
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -203,16 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@RoshanJSingh](https://github.com/RoshanJSingh)
 - LinkedIn: [Connect with me](https://linkedin.com/in/roshanjsingh)
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who helped with this project
-- Special thanks to the healthcare professionals who provided insights
-- Icons and images from various open-source projects
-
-## 📞 Support
-
-If you have any questions or need help with setup, please open an issue on GitHub or contact the maintainer.
 
 ---
 
-⭐ **Star this repository if you find it helpful!**
