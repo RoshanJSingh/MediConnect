@@ -63,7 +63,12 @@ MediConnect/
 └── README.md         # Project documentation
 ```
 
-##  Quick Start
+## Deployment
+
+### Vercel Link
+- Customer: https://medi-connect-azure.vercel.app/
+
+## Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -176,7 +181,10 @@ PORT=4000
 - `PUT /api/admin/doctor/:id` - Update doctor status
 - `GET /api/admin/appointments` - Get all appointments
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7ea88f02b0488f3841089d5371538c30be9ea9b7
 ##  Contributing
 
 1. Fork the repository
@@ -192,9 +200,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Roshan J Singh**
+<<<<<<< HEAD
 - GitHub: [@RoshanJSingh](https://github.com/RoshanJSingh)
 - LinkedIn: [Connect with me](https://linkedin.com/in/roshanjsingh)
 
 
 ---
 
+=======
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who helped with this project
+- Icons and images from various open-source projects
+
+
+>>>>>>> 7ea88f02b0488f3841089d5371538c30be9ea9b7
